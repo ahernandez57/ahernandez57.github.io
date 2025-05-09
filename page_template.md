@@ -56,7 +56,7 @@ This project examined potential bias in FEMA’s National Risk Index (NRI) by pe
 
 ## Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/aracely-hernandez-civil-engineering)  
+- [LinkedIn](https://www.linkedin.com/in/aracely-hernandez-civil-engineering)  
 - [GitHub](https://github.com/ahernandez57)  
 - [Email Me](ahernandez57@unl.edu)
 
